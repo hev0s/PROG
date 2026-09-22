@@ -35,8 +35,17 @@ int main() {
    cout << (    2      + 4.5) << endl;
 
    char car = 2;
+   cout << char(car + 1) << endl; // doit définir de façon explicit qu'on veut un caractère
    cout << (car + 3) << endl; // promotion
    cout << (2.1 + 3) << endl; // conversion
+
+   int valeur = 27;
+   int& ref = valeur;
+   cout << "entier : " << valeur << endl;
+   cout << "ref : " << ref << endl;
+   cout << "valeur : " << valeur << endl;
+   cout << "ref : " << ref << endl;
+
 
    return EXIT_SUCCESS;
 }
