@@ -57,14 +57,15 @@
 
 ### Jeudi
 - **Labo**
+    - Exercices chap 1 : à faire et terminer pour demain
     - Installation CLion
     - Demo Git
     - Labo 02 - Calcul du temps de trajet
 
 ### Vendredi
 - **Cours**
-    - chap 2 => slide ..
-    - exercices chap 2 :
+    - chap 2 => slide 67
+    - exercices chap 2 : à faire
 
 - **Labo**
     - Labo 02 - Calcul du temps de trajet
