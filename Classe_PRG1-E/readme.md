@@ -73,22 +73,67 @@
 	- [Labo-01 Suite de Wallis](../Laboratoires/Labo-01)
 	- [Labo-02 Temps Trajet](../Laboratoires/Labo-02)
 
-    - Installation CLion
-	- Demo Git
-	- Labo 02 - Calcul du temps de trajet
+  - Installation CLion
+  - Demo Git
+  - Labo 02 - Calcul du temps de trajet
 
 ---
 > ## <a name="semaine_03"></a>SEMAINE 03 - 28.09.2026 - 04.10.2026 [⬆︎](readme.md#start)
 
 #### Lundi
 - **Cours**
+	- chap 2 => terminé
+	- chap 3 => slide 12
 
 - **Labo**
+	- Labo-02 : revue
+	- exercices chap 2 : revu
+	- exercices chap 3 : 1, 2, 3, 7, 8, 10, 11
 
 ### Mardi
 - **Cours**
+	- chap 3 => slide 34
 
 - **Labo**
+	- exercices chap 3 : 4, 5, 6
+	- correction exercices chap 3 :  1 à 11
+   - exercices chap 3 : 12 à 19 pour lundi
+
+	- [OpenDidact : Rev chap 1 et 2](https://opendidac.heig-vd.in/users/evaluations/cmulnzmgp00ktugn0x0m42lg2) pour lundi
+   
+### Question 5 (correction)
+
+Nous cherchons à comparer deux valeurs réelles.
+Compléter ce code pour indiquer si les valeurs sont à considérer comme égales.
+
+**notes**
+
+- la solution n'est pas de passer de `float` à `double` voire à `long double`
+- aide `numeric_limits` [[lien](https://cplusplus.com/reference/limits/numeric_limits/)]
+
+**NB** nous supposons les `float` codés sur 32 bits
+
+~~~cpp
+#include <iostream>
+#include <cstdlib>
+#include <limits>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+float gauche, droite;
+cin >> gauche >> droite;
+
+    cout << setprecision(6) << std::fixed;
+    cout << gauche << " == " << droite << endl;
+
+    bool correct = /* < à compléter ici > */;
+    cout << "Ce résultat est correct : " << boolalpha << correct << endl;
+
+    return EXIT_SUCCESS;
+}
+~~~
 
 ---
 > ## <a name="semaine_04"></a>SEMAINE 04 - 05.10.2026 - 11.10.2026 [⬆︎](readme.md#start)
@@ -150,7 +195,13 @@
 ---
 > ## <a name="semaine_08"></a>SEMAINE 08 - 09.11.2026 - 15.11.2026 [⬆︎](readme.md#start)
 
-# EVALUATION
+### Lundi
+- **Cours**
+
+- **Labo**
+
+### Mardi
+- **EVALUATION no 1**
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 16.11.2026 - 22.11.2026 [⬆︎](readme.md#start)
