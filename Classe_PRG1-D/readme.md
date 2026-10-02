@@ -72,12 +72,12 @@
 
 ### Mardi
 - **Cours**
-	- chap 3 => slide ..
+	- chap 3 => slide 15
 
 - **Labo**
 	- Labo-02 : revue
    - exercices chap 2 : à passer en revue
-	- exercices chap 3 : 
+	- exercices chap 3 : 1, 2, 3, 4, 5, 6, 7, 8, 10, 11
 
 ### Vendredi
 - **Cours**
