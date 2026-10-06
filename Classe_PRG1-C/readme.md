@@ -99,15 +99,20 @@
 
 ### Lundi
 - **Cours**
+  - chap 3 => terminé
+  - exercices chap 3 à terminer
 
 ### Jeudi
 - **Labo**
+   - Labo-03
+  - [Révision Chap 3](https://opendidac.heig-vd.in/users/evaluations/cmuwg30go02lkugn06qlkoqm8)
 
 ### Vendredi
 - **Cours**
+   - chap 4 => ...
 
 - **Labo**
-
+   - Labo-03
 ---
 > ## <a name="semaine_05"></a>SEMAINE 05 - 12.10.2026 - 18.10.2026 [⬆︎](readme.md#start)
 
@@ -165,11 +170,6 @@
 - **EVALUATION no 1**
 
 ### Jeudi
-- **Labo**
-
-### Vendredi
-- **Cours**
-
 - **Labo**
 
 ---
