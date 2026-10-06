@@ -77,7 +77,7 @@ int main () {
    }
    cout << endl;
 
-   for (char& c : str) {
+   for (char& c : str) {  // & est la référence car sinon on modifie la copie
       cout << c;
       c = toupper(c);
       cout << c;
@@ -109,6 +109,19 @@ int main () {
       int i, j, k;
       i = j = k = 3;
       4;
+   }
+
+   string strw = "hello"; // le code est faux car il va 1 trop loin...
+   for (size_t i = 0; i <= strw.length(); ++i) { // long long unsigned = size_t
+      cout << strw[i];
+      cout << str.at(i) << " ";
+
+   }
+   cout << strw[i] << endl;
+
+   string strz = "hello";
+   for (int i = 0; i <= strz.length(); ++i) {
+      cout << strz[i] << endl;
    }
 
    return EXIT_SUCCESS;

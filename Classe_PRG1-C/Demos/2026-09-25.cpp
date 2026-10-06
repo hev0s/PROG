@@ -6,8 +6,16 @@ using namespace std;
 
 int main () {
 
+   int entier = 7;
    int i = 12;
-   bool a = false,
+
+   int& ref = entier;
+
+   cout << (a > 20 and entier <= 20) << endl;
+   cout << (a > 30 and ++ entier) << endl;
+    cout << entier << endl;
+
+    bool a = false,
         b = true;
 
    cout << i << endl;
