@@ -128,10 +128,10 @@
 
 ### Vendredi
 - **Cours**
-    - chap 4 => slide ..
+    - chap 4 => slide 40
 
 - **Labo**
-   - Exercices chap 4 :
+   - Exercices chap 4 : => 18
 
 ---
 > ## 19.10.2026 - 25.10.2026 [⬆︎](readme.md#start)
@@ -146,6 +146,7 @@
 
 ### Jeudi
 - **Labo**
+  - Condition de rendu des laboratoires
 
 ### Vendredi
 - **Cours**
