@@ -143,15 +143,21 @@
 
 ### Lundi
 - **Cours**
+  - Cpp Reference Card
+  - chap 4 => slide 71
+  - exercices chap 4 à faire pour vendredi
 
 ### Jeudi
 - **Labo**
   - Condition de rendu des laboratoires
+  - Labo-04
 
 ### Vendredi
 - **Cours**
+  - chap 4 => slide ..
 
 - **Labo**
+  - Labo-04
 	
 ---
 > ## <a name="semaine_07"></a>SEMAINE 07 - 02.11.2026 - 08.11.2026 [⬆︎](readme.md#start)
