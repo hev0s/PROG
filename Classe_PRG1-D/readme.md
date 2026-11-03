@@ -160,11 +160,11 @@
 ### Mardi
 - **Cours**
    - [Revue Révision Chap 4](https://opendidac.heig-vd.in/users/evaluations/cmvqqjtqw048bugn06ed1qz11)
-  - chap 5 => slide 32
+  - chap 5 => slide .. 
 
 - **Labo**
   - Exercices chap 5
-  - [Installation OpenDidact - code : CJK36D](https://opendidac.heig-vd.in/downloads)
+  - [Installation OpenDidact - App](https://opendidac.heig-vd.in/downloads)
 
 ### Vendredi
 - **Cours**
