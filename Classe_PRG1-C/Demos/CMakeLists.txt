@@ -17,4 +17,5 @@ add_executable(Demos_PRG1-C
     2026-10-16.cpp
     2026-10-26.cpp
     2026-10-30.cpp
+    2026-11-02.cpp
 )
