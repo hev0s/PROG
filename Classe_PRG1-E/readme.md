@@ -228,8 +228,12 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
+  - chap 5 => à terminer
+  - Chap 6 => slide 11
 
 - **Labo**
+  - revue exercices chap 5
+  - préparation Evaluation no 1
 
 ### Mardi
 - **EVALUATION no 1**
@@ -239,14 +243,20 @@ cin >> gauche >> droite;
 
 ### Lundi
 - **Cours**
+  - exercices chap 5
+  - Chap 6 => slide ..
+  - exercices chap 6
 
 - **Labo**
+  - Labo 05
 
 ### Mardi
 - **Cours**
+  - Chap 6 => slide fin
+  - exercices chap 6
 
 - **Labo**
-
+  - Labo 05
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 23.11.2026 - 29.11.2026 [⬆︎](readme.md#start)
@@ -255,6 +265,7 @@ cin >> gauche >> droite;
 - **Cours**
 
 - **Labo**
+  - Labo 05
 
 ### Mardi
 - **Cours**

@@ -187,26 +187,38 @@
 
 ### Lundi
 - **Cours**
+  - chap 5 => à terminer
+  - préparation Evaluation no 1
+  - chap 6 => slide 6
 
 ### Mardi
 - **EVALUATION no 1**
 
 ### Jeudi
 - **Labo**
+  - revue exercices chap 5
+  - exercices chap 6
 
 ---
 > ## <a name="semaine_09"></a>SEMAINE 09 - 16.11.2026 - 22.11.2026 [⬆︎](readme.md#start)
 
 ### Lundi
 - **Cours**
+  - exercices chap 5
+  - Chap 6 => slide ..
+  - exercices chap 6
 
 ### Jeudi
 - **Labo**
+  - Labo 05
 
 ### Vendredi
 - **Cours**
+  - Chap 6 => slide fin
+  - exercices chap 6
 
 - **Labo**
+  - Labo 05
 
 ---
 > ## <a name="semaine_10"></a>SEMAINE 10 - 23.11.2026 - 29.11.2026 [⬆︎](readme.md#start)
@@ -216,6 +228,7 @@
 
 ### Jeudi
 - **Labo**
+  - Labo 05
 
 ### Vendredi
 - **Cours**
